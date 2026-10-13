@@ -2,3 +2,4 @@
 go.mod
 main.*
 tsconfig.json
+.DS_Store
